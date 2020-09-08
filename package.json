@@ -11,7 +11,7 @@
       "db.json"
     ]
   },
-  "author": "Lucas Helme",
+  "author": "Blobcode",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
