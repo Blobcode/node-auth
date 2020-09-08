@@ -1,0 +1,11 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "id": "iZkmeQ6bH",
+      "name": "bill",
+      "password": "$2b$10$g/l06pdEs/sFHgJbu9TOkO.0MnYfMDECSM01cpvT8JAGmmTcWupwS",
+      "email": "lhelme123@gmail.com"
+    }
+  ]
+}
